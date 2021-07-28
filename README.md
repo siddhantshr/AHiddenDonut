@@ -14,7 +14,7 @@
 -   🎵 I like music and playing musical instruments
 -   🔫 I like copying code (This one is copied from KineticTactic Ez)
 -   🤔 I was also a Cuber
--   <img align="left" alt="My Avatar" width="26px" src="https://i.ibb.co/6NNnFm8/donut-pfp.png" /> I copied this avatar from google myself ;)
+-   <img align="left" alt="My Avatar" width="26px" src="https://i.ibb.co/6NNnFm8/donut-pfp.png" />I copied this avatar from google myself ;)
 
 [![KineticTactic's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHiddenDonut&show_icons=true&theme=dark)](https://github.com/AHiddenDonut)
 
