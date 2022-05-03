@@ -14,7 +14,7 @@
 
 ### Coding Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AHiddenDonut &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AHiddenDonut&theme=radical)
 
 <!--START_SECTION:waka-->
 
