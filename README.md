@@ -1,6 +1,4 @@
-### Hi! I am Donut Lol
-
-## I am a 10th grader, and coding is one of my hobbies!
+## Stacked backend developer and a noob frontend developer ._.
 
 ### Some of my current projects
 
