@@ -11,3 +11,8 @@
 ### Connect with me
 
 [Discord](https://discord.com/users/711444754080071714)
+
+### Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
